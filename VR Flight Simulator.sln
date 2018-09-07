@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR Flight Simulator", "VR Flight Simulator.csproj", "{06911036-B3C2-7422-22CE-29F7C22B3E76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR Flight Simulator.Plugins", "VR Flight Simulator.Plugins.csproj", "{15D148E0-4668-BC6E-BE3C-B888221F5409}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR Flight Simulator.Editor", "VR Flight Simulator.Editor.csproj", "{D1C905B5-275C-499D-8D3C-48374843C319}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR Flight Simulator.Editor.Plugins", "VR Flight Simulator.Editor.Plugins.csproj", "{C4FAC840-15DF-508B-EBED-EE27F2005724}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06911036-B3C2-7422-22CE-29F7C22B3E76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06911036-B3C2-7422-22CE-29F7C22B3E76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06911036-B3C2-7422-22CE-29F7C22B3E76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06911036-B3C2-7422-22CE-29F7C22B3E76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15D148E0-4668-BC6E-BE3C-B888221F5409}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15D148E0-4668-BC6E-BE3C-B888221F5409}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15D148E0-4668-BC6E-BE3C-B888221F5409}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15D148E0-4668-BC6E-BE3C-B888221F5409}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1C905B5-275C-499D-8D3C-48374843C319}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1C905B5-275C-499D-8D3C-48374843C319}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1C905B5-275C-499D-8D3C-48374843C319}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1C905B5-275C-499D-8D3C-48374843C319}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4FAC840-15DF-508B-EBED-EE27F2005724}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4FAC840-15DF-508B-EBED-EE27F2005724}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4FAC840-15DF-508B-EBED-EE27F2005724}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4FAC840-15DF-508B-EBED-EE27F2005724}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
